@@ -1,7 +1,7 @@
 # memristorBDNN
 ###### **Overview**
 
-This code repository is partly to support risk-sensitive reinforcement learning experiment in the submitted manuscript.
+This code repository is partly to support risk-sensitive reinforcement learning experiment in the submitted manuscript 《Uncertainty quantification via a memristor Bayesian deep neural network for risk-sensitive reinforcement learning》.
 
 ###### **System Requirements**
 
